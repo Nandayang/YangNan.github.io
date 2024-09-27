@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm currently a Research Associate at the [Department of BioEngineering](https://www.imperial.ac.uk/bioengineering/), [Imperial College London](https://www.imperial.ac.uk). My research interests mainly include deep/machine learning in digital healthcare.
+
+I obtained my PhD at the Imperial College London, supervised by [Dr. Yang](https://profiles.imperial.ac.uk/g.yang) from [Department of BioEngineering](https://www.imperial.ac.uk/bioengineering/), [Imperial College London](https://www.imperial.ac.uk). 
+
+[Google Scholar]([https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://scholar.google.co.uk/citations?hl=en&user=bfIiCesAAAAJ)) / [LinkedIn](https://www.linkedin.com/in/yang-nan-4a969b221/) / [Github]([https://github.com/QiuDi233](https://github.com/Nandayang/) / 
 
 A data-driven personal website
 ======
