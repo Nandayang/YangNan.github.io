@@ -11,7 +11,7 @@ I'm currently a Research Associate at the [Department of BioEngineering](https:/
 
 I obtained my PhD at the Imperial College London, supervised by [Dr. Yang](https://profiles.imperial.ac.uk/g.yang) from [Department of BioEngineering](https://www.imperial.ac.uk/bioengineering/), [Imperial College London](https://www.imperial.ac.uk). 
 
-[Google Scholar]([https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://scholar.google.co.uk/citations?hl=en&user=bfIiCesAAAAJ)) / [LinkedIn](https://www.linkedin.com/in/yang-nan-4a969b221/) / [Github]([https://github.com/QiuDi233](https://github.com/Nandayang/) / 
+[Google Scholar]([https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://scholar.google.co.uk/citations?hl=en&user=bfIiCesAAAAJ)) / [LinkedIn](https://www.linkedin.com/in/yang-nan-4a969b221/) / [Github](https://github.com/Nandayang/) / 
 
 A data-driven personal website
 ======
